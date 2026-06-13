@@ -1,0 +1,8 @@
+target/
+node_modules/
+dist/
+.DS_Store
+.idea/
+*.log
+backend/src/main/resources/static/
+frontend/node
