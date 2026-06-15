@@ -14,7 +14,7 @@
   <description>Angular frontend for the application</description>
 
   <properties>
-    <frontend-maven-plugin.version>1.15.0</frontend-maven-plugin.version>
+    <frontend-maven-plugin.version>2.0.1</frontend-maven-plugin.version>
     <node.version>v24.16.0</node.version>
     <pnpm.version>11.5.2</pnpm.version>
     <skip.installnodenpnpm>false</skip.installnodenpnpm>
